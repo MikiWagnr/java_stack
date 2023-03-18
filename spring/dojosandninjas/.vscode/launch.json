@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DojoninjaApplication<dojoninja>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "miki.dojoninja.DojoninjaApplication",
+            "projectName": "dojoninja",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
