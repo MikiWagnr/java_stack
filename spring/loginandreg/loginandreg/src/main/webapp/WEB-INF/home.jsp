@@ -18,7 +18,8 @@
     <script type="text/javascript" src="/js/app.js"></script><!-- change to match your file/naming structure -->
 </head>
 <body>
-<h1>Welcome ${user.userName}!</h1>
+
+    <h1>Welcome ${user.userName}!</h1>
 <h3>This is your dashboard, there's nothing to see here yet!</h3>
 <a class="btn btn-danger" href="/logout">logout</a>
 </body>
